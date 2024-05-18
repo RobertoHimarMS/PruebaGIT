@@ -1,5 +1,5 @@
 /* Paquete por defecto del proyecto Deposito */
-package deposito;
+package cuentas;
 
 public class CCuenta {
     String nombre;
